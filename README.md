@@ -1,2 +1,2 @@
 # firstone
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/weldsonlima/firstone/blob/master/firstone.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/weldsonlima-firstone-rwhdwp9t/notebooks/firstone.ipynb)
